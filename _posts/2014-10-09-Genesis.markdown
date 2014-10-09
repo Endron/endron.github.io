@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "Endrons Blog beginnt"
+date:   2014-10-09 21:11:00
+categories: jekyll update
+---
+Dies ist der erste Post in meinem neuen Blog. In den nächsten Wochen
+werde ich daran arbeiten, den Blog hübsch zu machen.
+
+Vielleicht werde ich auch über meine Erfahrungen mit GitHup Pages und jekyll
+schreiben.
+Vielleicht schreibe ich auch über etwas ganz anderes. Mal schauen...
