@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "Endrons Blog beginnt"
-date:   2014-10-09 21:11:00
-categories: jekyll update
+date:   2014-10-09 19:11:00
+categories: update
 ---
 Dies ist der erste Post in meinem neuen Blog. In den nächsten Wochen
 werde ich daran arbeiten, den Blog hübsch zu machen.
