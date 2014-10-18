@@ -126,3 +126,25 @@ mittel- und langfristig wird es wohl backfiren, wenn man als Priester seine
 Kräfte verliert und es seinen Mitspielern verheimlicht.
 
 # Fazit
+OK was machen wir jetzt daraus? Ich glaube, dass wir das ganze alle Priester
+verlieren ihre Kräfte Zeug auch in Zukunft von Zeit zu Zeit sehen werden. Es 
+währe aber halt wünschenswert, wenn dies nur in Ausnahmefällen passiert und wenn
+es der Plot tatsächlich erfordert. Es ist definitiv nichts, dass passieren 
+sollte, weil die SL gerade eine Idee hat. Auf der Regelseite halte ich es für 
+einen Eingriff, der gut überlegt seien sollte, weil man hier einem Spieler halt
+wirklich ein schwerer Eingriff in seine Möglichkeiten auf dem Con zu spielen. 
+
+InTime sollte es für den Priester wahrscheinlich ein traumatisches Erlebnis 
+sein. Das kann aber nicht erreicht werden, wenn es ohne triftigen Grund passiert
+und auch mal pauschal für alle gilt. Seine Kräfte zu verlieren währe woll 
+wirksamer, wenn es wirklich nur für persönliche Plots genutzt wird, um einem 
+Priester-Spieler, der sich nicht so verhält wie es seine Religion verlangt (und
+damit sollte es auch den SLs des Religionshintergunds des Spielers vorbehalten 
+sein).
+
+Es sollte meiner Meinung nach vor allem nicht genutz werden, um die eigenen
+Landes-Götter gegenüber den Religionen der Spieler hervorzuheben. Hier gilt nur
+die Landesreligion. Alles anders funktioniert nicht. Du kannst ja zu Xylubus
+konvertieren... Das ist einfach Bullshit! Priester sollten selten bis gar nicht
+ihre Religion wechseln. Und sie sollten auch nicht so beliebig sein, dass sie
+dann halt mal kurzzeitig zu Göttern eines anderen Pantheon beten.
