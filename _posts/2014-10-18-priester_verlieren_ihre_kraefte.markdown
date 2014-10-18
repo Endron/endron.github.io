@@ -11,8 +11,8 @@ wird etc. Wie immer gilt hier aber: Verallgemeinerung der Weg zum Ziel ist).
 
 In diesem Post möchte ich mal darüber nachdenken, ob dieses Troph Sinn macht.
 Ich glaube hier gibt es mehrere Punkte, die betrachtet werden müssen:
-  * Aus Sicht des Regelwerks
-  * Aus Sicht der internen Logik der LARP-Welt
+* Aus Sicht des Regelwerks
+* Aus Sicht der internen Logik der LARP-Welt
 
 # Aus Sicht des Regelwerks
 Hier scheint die Antwort auf die Frage zunächst offensichtlich zu sein: Den
@@ -25,14 +25,14 @@ genau diese Werkzeuge weg zu nehmen?
 
 Leider ist es in der Prazis wohl nicht so einfach. Die Werkzeuge wollen wir an
 dieser Stelle mal in zwei Gruppen teilen:
-  * phyische Fähigkeiten
-  * meta-physische Fähigkeiten
+* phyische Fähigkeiten
+* meta-physische Fähigkeiten
 
 Physische Fähigkeiten umschließen hierbei die Fähigkeiten, die angelehnt sind
 an Dinge, die in der normalen Welt möglich sind:
-  * Mit dem Schwert zuschlagen
-  * Wunden verbinden
-  * Schlößer knacken
+* Mit dem Schwert zuschlagen
+* Wunden verbinden
+* Schlößer knacken
 
 Meta-physische Fähigkeiten ist in der Regel nur ein netter Begriff für Magic.
 Und genau hier fängt das eigentliche Problem an: Mit Magie ist alles möglich.
