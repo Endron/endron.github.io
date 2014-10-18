@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Macht es Sinn, wenn Priester im LARP ihre Kräfte verlieren?"
-date:   2014-10-09 21:11:00
+date:   2014-10-18 21:11:00
 categories: larp rules
 ---
 Jeder Priester-Spieler da draußen kann es bestätigen: Es ist für einen Priester
