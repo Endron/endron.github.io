@@ -38,21 +38,21 @@ Meta-physische Fähigkeiten ist in der Regel nur ein netter Begriff für Magic.
 Und genau hier fängt das eigentliche Problem an: Mit Magie ist alles möglich.
 
 Das führt uns direkt zu einem Problem, dass im LARP schon immer (oder zumindest
-die 10+ Jahre die ich es schon mache) beobachten kann: Die Magier/Priester
+die 10+ Jahre die ich es schon mache) beobachten kann: Die Priester und Magier
 kümmern sich um den Plot, während der Rest häufig dazu verdammt ist, sich mit
 den in Wellen angreifenden NPCs zu beschäftigen (entweder um sie zu verkloppen
 oder um die verletzten Spieler zu heilen). Man könnte also wahrscheinlich einen
 Case dafür machen, dass es auch mal ganz gut ist, die Magier/Priester auch mal
 aus dem Spiel zu nehmen, damit auch mal andere im Mittelpunkt stehen können.
 
-Begünstigt wird das ganze wohl auch, dass manche Regelwerke klar Magier/Priester
-gegenüber Kämpfer begünstigen (ja ich meine dich Thats Live X): Magier/Priester
-skalieren häufig nahezu linear mit ihren Contagen, während Kämpfer kaum stärker
-werden (sie besitzen häufig relativ schnell aller interessanten Fähigkeiten).
-Umgekehrt können sie aber mit relativ wenigen Contagen bereits relativ gut sein:
-Während sich Magier/Priester mit wenigen Contagen häufig ihre klammen Magiepunkte
-gut einteilen müssen, kann ein Kämpfer mit 0 Contagen in einer Platte bereits
-ein gefährlicher Gegner sein.
+Begünstigt wird das ganze wohl auch, dass manche Regelwerke klar Priester und 
+Magier gegenüber Kämpfer begünstigen (ja ich meine dich Thats Live X): Priester
+und Magier skalieren häufig nahezu linear mit ihren Contagen, während Kämpfer 
+kaum stärker werden (sie besitzen häufig relativ schnell aller interessanten
+Fähigkeiten). Umgekehrt können sie aber mit relativ wenigen Contagen bereits
+relativ gut sein: Während sich Priester und Magier mit wenigen Contagen häufig
+ihre klammen Magiepunkte gut einteilen müssen, kann ein Kämpfer mit 0 Contagen 
+in einer Platte bereits ein gefährlicher Gegner sein.
 
 Die Frage ist hier aber auch nicht, welche Charakter-Klassen sind stärker
 abhängig von der Anzahl der Contage und wer bekommt wieviel vom Plot. Diese
@@ -68,5 +68,61 @@ hätten) währ die Antwort wie eingangs gesagt klar. In der Realiät befinden wi
 uns aber wohl in einer Grauzone. 
 
 # Aus Sicht der internen Logik der LARP-Welt
+Wie aber funktioniert dieser Kraftverlust in der Welt und was bedeutet es für 
+die Charktere? Hier gestaltet sich die Antwort noch schwieriger. Das Problem
+ist, das die LARP-Welte(n) ja nicht sowas wie einen gemeinsamen Schöpfungs- oder
+Religionshintergrund haben. Die meisten Gruppe die ihr eigenes Land/Hintergrund
+erdenken, erfinden auch gleich ihrer eigene Religion und ihren eigenen 
+Schöpfungsmythos. Das stellt uns jetzt vor das Problem, dass nur sehr wenige
+allgemeingültige Aussagen möglich sind.
+
+Zum einen haben wir den Charakter des Priesters selbst. Typischerweise wird er
+ja eine Erklärung haben, wo seine besonderen Kräfte herkommen. Klasischerweise
+wird er sie als Geschenk und Gunstbeweis welcher Gottheit er auch immer dient
+betrachten. Das heist aber auch, dass wenn sie auf einmal weg sind, dann kann
+das eigentlich nur bedeuten, dass sein Gott ihn abstraffen will. Im allgemeinen
+wird er ja nicht einfach akzeptieren, dass sein Gott nicht die Möglichkeit hat
+ihm zu helfen, sondern das sie sich aktiv dagegen entschieden hat. Das Problem
+ist jetzt aber, dass es die Handlung, für die er abgestrafft wird ja gar nicht
+gab. Er hat seine Kräfte ja verloren, weil es halt im Plot stand.
+
+Was soll er also jetzt tuen? Nach einer Verfehlung suchen? Sich mit 
+Selbstzweifeln rumschlagen? Kann er alles machen und hin und wieder mag das
+sogar Spiel bringen aber wenn das häufiger passiert, macht das auch keinen Sinn.
+Er wird ja im Laufe des Plots wahrscheinlich herausfinden, dass es nicht sein
+Gott war, der ihn strafen wollte, sondern äußere Einflüsse aus dem Plot waren, 
+die ihm die Kräfte genommen haben. Er wird also beim nächsten mal auch glauben,
+dass es wieder etwas in der Art ist. Also kein Grund zu Selbstzweifeln. Lass uns
+lieber den dunklen Gott/Dämon/Schwarzmagier finden, der diesmal Schuld ist.
+
+Wir haben also, gerade bei älteren Charakteren, die schon öffter vor dem Problem
+standen, dass sie ihre Kräfte verloren haben, Spieler die sich im wesentlichen
+dem Plot widmen, um ihre Kräfte wieder zu erhalten. Spiel wird also in vielen
+Fällen nicht wirklich entstehen.
+
+Die andere Gruppe die die wir betrachten sollten ist, sind die anderen 
+Gläubigen, die um unseren Priester herum existieren. Wie sollen sie darauf 
+reagieren, wenn ihr gemeinsamer Gott auf einmal offenbar entschieden hat, nicht 
+mehr ihren Priester helfen zu wollen? Hier könnte man natürlich auch sagen, dass
+sie ihren Priester vielleicht auch mal fragen sollten, was er den getan hat um 
+ihren Gott zu verärgern. 
+
+Natürlich kann kann der Priester InTime auch verschweigen, das seine Gebete halt
+keine Wirkung mehr haben. Seine Gläubigen werden ja nur direkte Wirkungen 
+erleben, wenn die Zauber direkt auf sie wirken. Soweit ich es sehe währe es 
+vor allem Heilung die hier auffällt. Und bei der kann man immer die Schuld dem
+Ziel der Heilung zuschieben: Mein Gott wird schon wissen, warum er dich nicht
+heilen möchte... Bei allen anderen Zaubern kann er wahrscheinlich immer mit eine
+Erklärung finden, warum es halt nicht funktioniert. Der Fluch war halt zu stark
+um gebrochen zu werden. Die Untoten waren halt zu mächtig um von ihm in die 
+Flucht geschlagen zu werden.
+
+Was dies aber immer beschränkt ist, dass der Kräfteverlust der Priester ja meist
+im Plot des Cons begraben liegt. D.h. es wird immer früher oder später im Lager
+bekannt werden, dass es da was gibt (außer man startet eine Verschwörung um
+teile des Plots geheim zu halten). Und das wirft dann die Fragen auf. Die 
+meisten guten Spieler-Religionen werden auch irgendwo erlichkeit erwarten. D.h. 
+mittel- und langfristig wird es wohl backfiren, wenn man als Priester seine 
+Kräfte verliert und es seinen Mitspielern verheimlicht.
 
 # Fazit
