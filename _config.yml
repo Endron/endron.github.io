@@ -12,3 +12,5 @@ github_username:  endron
 # Build settings
 timezone: "Europe/Berlin"
 markdown: kramdown
+
+theme: jekyll-theme-cayman
